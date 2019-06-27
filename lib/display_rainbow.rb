@@ -1,3 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow
-  arr=[]
+  arr=["red","orange","yellow","green","blue","indigo","voilet"]
+  
