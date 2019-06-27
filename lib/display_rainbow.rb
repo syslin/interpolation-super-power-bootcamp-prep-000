@@ -2,13 +2,7 @@
 def display_rainbow(color)
  
  # color. each |x|
-  puts "R:#{color[0]}"
-  puts "R:#{color[1]}"
-  puts "R:#{color[2]}"
-  puts "R:#{color[3]}"
-  puts "R:#{color[4]}"
-  puts "R:#{color[5]}"
-  puts "R:#{color[6]}"
+  puts "R:#{color[0]},O:#{color[1]},Y:#{color[2]},G:#{color[3]},B:#{color[4]},I:#{color[5]},V:#{color[6]}"
   
 end
  color=["red","orange","yellow","green","blue","indigo","voilet"]
